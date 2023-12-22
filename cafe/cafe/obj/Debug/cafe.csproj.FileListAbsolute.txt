@@ -1,0 +1,12 @@
+C:\Users\yusuf\OneDrive\Masaüstü\Cafe Uygulaması\cafe\cafe\bin\Debug\cafe.exe.config
+C:\Users\yusuf\OneDrive\Masaüstü\Cafe Uygulaması\cafe\cafe\bin\Debug\cafe.exe
+C:\Users\yusuf\OneDrive\Masaüstü\Cafe Uygulaması\cafe\cafe\bin\Debug\cafe.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Cafe Uygulaması\cafe\cafe\obj\Debug\cafe.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Cafe Uygulaması\cafe\cafe\obj\Debug\cafe.Form1.resources
+C:\Users\yusuf\OneDrive\Masaüstü\Cafe Uygulaması\cafe\cafe\obj\Debug\cafe.Properties.Resources.resources
+C:\Users\yusuf\OneDrive\Masaüstü\Cafe Uygulaması\cafe\cafe\obj\Debug\cafe.csproj.GenerateResource.Cache
+C:\Users\yusuf\OneDrive\Masaüstü\Cafe Uygulaması\cafe\cafe\obj\Debug\cafe.exe
+C:\Users\yusuf\OneDrive\Masaüstü\Cafe Uygulaması\cafe\cafe\obj\Debug\cafe.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Cafe Uygulaması\cafe\cafe\obj\Debug\cafe.Form2.resources
+C:\Users\yusuf\OneDrive\Masaüstü\Cafe Uygulaması\cafe\cafe\obj\Debug\cafe.Form3.resources
+C:\Users\yusuf\OneDrive\Masaüstü\Cafe Uygulaması\cafe\cafe\obj\Debug\cafe.Form4.resources
